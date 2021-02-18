@@ -1,0 +1,4 @@
+{
+	"stubPath": "./stubs",
+	"include": ["./CIRCUITPY/*", "./CIRCUITPY/lib/*"]
+}
